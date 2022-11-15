@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'Bookshell'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F38A0C117CC340D3A09F9246F9C6F936 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F18C7E841ABC4686811A0861063F32B3 }}
           package: '*.jar'
